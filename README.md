@@ -3,6 +3,7 @@ The object of this project is to simulate a decentralized control of robots to d
 1. Form a square formation at the starting box
 2. Navigate to second arena as a group
 3. Form a triangle formation in the second arena
+
 Constraints:
 • No centralized control
 • Max communication distance: 2
